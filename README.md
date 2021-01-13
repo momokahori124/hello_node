@@ -33,7 +33,7 @@ htmlファイルの文字数を数えるプログラム
 
 非同期処理をpromiseを使って希望の順番で表示する
 
-## ex08 --- time-server.js
+### ex08 --- time-server.js
 
 tcp通信で現在時刻を返すtime serverを作る
 
